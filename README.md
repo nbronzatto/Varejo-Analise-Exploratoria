@@ -1,17 +1,13 @@
 # Análise Exploratória de Dados (EDA) para Varejo
-
 Este projeto consiste em uma análise exploratória de dados (EDA) com foco no setor de varejo, utilizando um conjunto de dados fictício que simula vendas no varejo. O principal objetivo é aplicar técnicas de EDA para extrair insights úteis dos dados, utilizando a linguagem Python.
 
 ## Conjunto de Dados
-
 O dataset utilizado simula vendas no varejo e inclui várias variáveis típicas desse contexto, como categorias de produtos, valor de vendas, data do pedido, entre outras.
 
 ## Objetivo
-
 O objetivo principal é treinar e aplicar técnicas de análise exploratória de dados (EDA) para compreender melhor as características do conjunto de dados, identificar padrões, tendências, e possíveis anomalias.
 
 ## Ferramentas Utilizadas
-
 - Python 3
 - Bibliotecas: Pandas, NumPy, Seaborn, Matplotlib, e DateTime.
 
@@ -33,17 +29,9 @@ O objetivo principal é treinar e aplicar técnicas de análise exploratória de
    - Análise do total de vendas por categoria e subcategoria, focando nas top 12 subcategorias.
 
 ## Resultados Principais
-
 O projeto detalha passo a passo a aplicação de técnicas de EDA para responder a perguntas de negócios relevantes, apresentando os resultados através de tabelas e gráficos explicativos.
 
-## Como Usar
-
-1. Certifique-se de que todas as bibliotecas necessárias estão instaladas.
-2. Baixe o conjunto de dados e coloque-o no diretório apropriado.
-3. Execute o notebook para ver as análises e os gráficos gerados.
-
 ## Conclusão
-
 Este projeto demonstra a aplicação prática de técnicas de análise exploratória de dados no contexto do varejo, fornecendo insights valiosos que podem ajudar na tomada de decisões estratégicas.
 
 ---
